@@ -44,7 +44,7 @@
   "dependencies": {
     "body-parser": "^1.15.0",
     "cors": "^2.7.1",
-    "express": "v4.13.4",
+    "express": "v4.20.0",
     "fluent-ffmpeg": "^2.0.1",
     "mongodb": "^2.1.16",
     "multer": "^1.1.0",
